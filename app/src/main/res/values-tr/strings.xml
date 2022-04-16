@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gezegenler</string>
+    <string name="marsBaslik">Mars</string>
+    <string name="ozellik1">Kızıl Gezegen</string>
+    <string name="ozellik2">4. Gezegen</string>
+    <string name="ozellik3">6.767 km Çap</string>
+    <string name="marsAciklama"><![CDATA[Mars, Güneş Sistemi\'nin Güneş\'ten itibaren dördüncü gezegeni. Roma mitolojisindeki savaş tanrısı Mars\'a ithafen adlandırılmıştır. Yüzeyindeki yaygın demir oksitten dolayı kızılımsı bir görünüme sahip olduğu için &quot;Kızıl Gezegen&quot; de denir.]]></string>
+    <string name="buttonYazi">MARS\'I DAHA FAZLA KEŞFET</string>
+
+
+</resources>
